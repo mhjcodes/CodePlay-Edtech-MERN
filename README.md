@@ -1,10 +1,10 @@
 
-# StudyNotion - EdTech Platform
+# CodePlay - EdTech Platform
 :rocket: Link to website  ->  [(https://codeplay-edtech-project.vercel.app/)]
 
 
 ![Main Page](images/mainpage.png)
-StudyNotion is a dynamic and feature-rich MERN stack application that is set to reshape the landscape of online education. With a seamless blend of technology and education, CodePlay empowers both instructors and students, fostering a vibrant learning community.
+CodePlay is a dynamic and feature-rich MERN stack application that is set to reshape the landscape of online education. With a seamless blend of technology and education, CodePlay empowers both instructors and students, fostering a vibrant learning community.
 
 ## Table of Contents
 
@@ -22,13 +22,13 @@ StudyNotion is a dynamic and feature-rich MERN stack application that is set to 
 
 ## Introduction
 
-StudyNotion aims to provide a seamless and interactive learning experience for students, making education more accessible and engaging. Additionally, the platform serves as a platform for instructors to showcase their expertise and connect with learners across the globe.
+CodePlay aims to provide a seamless and interactive learning experience for students, making education more accessible and engaging. Additionally, the platform serves as a platform for instructors to showcase their expertise and connect with learners across the globe.
 
 In the following sections, we will cover the technical details of the platform, including the system architecture, API design, installation, usage instructions, and potential future enhancements.
 
 ## System Architecture
 
-StudyNotion EdTech platform consists of three main components: the front-end, the back-end, and the database. The platform follows a client-server architecture, with the front-end serving as the client and the back-end and database serving as the server.
+CodePlay EdTech platform consists of three main components: the front-end, the back-end, and the database. The platform follows a client-server architecture, with the front-end serving as the client and the back-end and database serving as the server.
 
 ### Front-end
 
@@ -71,7 +71,7 @@ The back-end of the platform is built using NodeJS and ExpressJS, providing APIs
 
 #### Back-end Frameworks, Libraries, and Tools
 
-The back-end of StudyNotion uses various frameworks, libraries, and tools to ensure its functionality and performance, including:
+The back-end of CodePlay uses various frameworks, libraries, and tools to ensure its functionality and performance, including:
 
 - **Node.js:** Used as the primary framework for the back-end.
 - **Express.js:** Used as a web application framework, providing a range of features and tools for building web applications.
@@ -96,13 +96,13 @@ The database for the platform is built using MongoDB, a NoSQL database that prov
 
 ### Architecture Diagram
 
-Below is a high-level diagram that illustrates the architecture of the StudyNotion EdTech platform:
+Below is a high-level diagram that illustrates the architecture of the CodePlay EdTech platform:
 
 ![Architecture](images/architecture.png)
 
 ## API Design
 
-The StudyNotion platform's API is designed following the REST architectural style. The API is implemented using Node.js and Express.js. It uses JSON for data exchange and follows standard HTTP request methods such as GET, POST, PUT, and DELETE.
+The CodePlay platform's API is designed following the REST architectural style. The API is implemented using Node.js and Express.js. It uses JSON for data exchange and follows standard HTTP request methods such as GET, POST, PUT, and DELETE.
   
 Sample list of API endpoints and their functionalities:
 
@@ -128,9 +128,8 @@ Sample list of API endpoints and their functionalities:
       Response: The updated course
       DELETE /api/courses/:id: Delete a course by ID
       Response: A success message indicating that the course has been deleted.
-      In conclusion, the REST API design for the StudyNotion ed-tech platform is a crucial part of the project. The API endpoints and their functionalities are designed to ensure seamless communication between the front-end and back-end of the application. By following RESTful principles, the API will be scalable, maintainable, and reliable. The sample API requests and responses provided above illustrate how each endpoint will function and what kind of data it will accept or return. With this API design, StudyNotion will be able to provide a smooth user experience while ensuring security and stability.
 
-In conclusion, the REST API design for the StudyNotion ed-tech platform is a crucial part of the project. The API endpoints and their functionalities are designed to ensure seamless communication between the front-end and back-end of the application. By following RESTful principles, the API will be scalable, maintainable, and reliable. The sample API requests and responses provided above illustrate how each endpoint will function and what kind of data it will accept or return. With this API design, StudyNotion will be able to provide a smooth user experience while ensuring security and stability.
+In conclusion, the REST API design for the CodePlay ed-tech platform is a crucial part of the project. The API endpoints and their functionalities are designed to ensure seamless communication between the front-end and back-end of the application. By following RESTful principles, the API will be scalable, maintainable, and reliable. The sample API requests and responses provided above illustrate how each endpoint will function and what kind of data it will accept or return. With this API design, StudyNotion will be able to provide a smooth user experience while ensuring security and stability.
 
 ## Installation
 
