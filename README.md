@@ -1,6 +1,6 @@
 
 # StudyNotion - EdTech Platform
-:rocket: Link to website  ->  [https://studynotion-master.vercel.app/]
+:rocket: Link to website  ->  [(https://codeplay-edtech-project.vercel.app/)]
 
 
 ![Main Page](images/mainpage.png)
